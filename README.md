@@ -1,0 +1,2 @@
+# javastatic
+Java static tests
